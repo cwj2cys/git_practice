@@ -23,6 +23,7 @@
 		<li>log</li>
 		<li>master</li>
 		<li>rebase</li>
+		<li>revert</li>
 	</ul>
   </BODY>
 </HTML>
