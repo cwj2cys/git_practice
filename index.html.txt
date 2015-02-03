@@ -19,6 +19,7 @@
 		<li>rebase<li>
 		<li>reset</li>
 		<li>git</li>
+		<li>checkout</li>
 	</ul>
   </BODY>
 </HTML>
