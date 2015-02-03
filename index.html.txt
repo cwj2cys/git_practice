@@ -22,6 +22,7 @@
 		<li>checkout</li>
 		<li>log</li>
 		<li>master</li>
+		<li>rebase</li>
 	</ul>
   </BODY>
 </HTML>
