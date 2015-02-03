@@ -21,6 +21,7 @@
 		<li>git</li>
 		<li>checkout</li>
 		<li>log</li>
+		<li>master</li>
 	</ul>
   </BODY>
 </HTML>
