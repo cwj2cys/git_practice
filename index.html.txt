@@ -18,6 +18,7 @@
 		<li>Å×½ºÆ®</li>
 		<li>rebase<li>
 		<li>reset</li>
+		<li>git</li>
 	</ul>
   </BODY>
 </HTML>
