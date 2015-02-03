@@ -20,6 +20,7 @@
 		<li>reset</li>
 		<li>git</li>
 		<li>checkout</li>
+		<li>log</li>
 	</ul>
   </BODY>
 </HTML>
