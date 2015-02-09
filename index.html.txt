@@ -27,7 +27,6 @@
 		<li>push</li>
 		<li>pull</li>
 		<li>fetch<li>
-		<li>SSH</li>
 	</ul>
   </BODY>
 </HTML>
