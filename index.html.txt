@@ -24,6 +24,7 @@
 		<li>master</li>
 		<li>rebase</li>
 		<li>revert</li>
+		<li>push</li>
 	</ul>
   </BODY>
 </HTML>
