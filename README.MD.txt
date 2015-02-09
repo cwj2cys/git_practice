@@ -4,3 +4,4 @@ Git add
 Git log
 Git rebase
 Git push
+Git reset
