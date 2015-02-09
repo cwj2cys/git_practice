@@ -26,6 +26,7 @@
 		<li>revert</li>
 		<li>push</li>
 		<li>pull</li>
+		<li>fetch<li>
 	</ul>
   </BODY>
 </HTML>
